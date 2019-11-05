@@ -152,7 +152,7 @@ def push(player,dealer):
 # NOW FOR THE GAME
 while True:
     # Print an opening statement
-    print("Welcome to my kickass Blackjack game.")
+    print("Welcome to my kickass Twenty-One game.")
 
     # Create & shuffle the deck, deal two cards to each player
     deck = Deck()
