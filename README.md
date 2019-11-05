@@ -1,5 +1,4 @@
-# Product Name
-Twenty One game
+# Twenty One game
 
 Implementation of the card game twenty one (variation of blackjack) in Python using the Command Line Interface.
 
