@@ -10,7 +10,7 @@ git clone https://github.com/lserrano10/TwentyOne.git
 
 ## Usage examples
 
-Once the project is our local machine, we can go to the main folder and run the game with Python.
+Once the project is our local machine, we can go to the main folder "TwentyOne" and run the game with Python.
 
 python3 twentyone_game.py
 
@@ -20,7 +20,9 @@ https://www.python.org/downloads/
 
 ## Test usage
 
-In order to run the tests we can execute the following command:
+First go over to the main directory "TwentyOne". In order to run the tests we can execute the following command:
+
+python3 test_twentyone.py
 
 ## Release history
 

@@ -1,0 +1,7 @@
+The only requirements to run this game are:
+
+- Python3
+- random library
+- io library
+- sys library
+- unittest library
